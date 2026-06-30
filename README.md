@@ -40,9 +40,13 @@ I build tools for peering inside neural networks, tinker with reinforcement lear
 Pause your training loop, step batch-by-batch, and **time-travel between epochs** while watching every layer's activations, gradients, weights and optimizer state — live, with nothing written to disk. Run deep dream or Grad-CAM on the paused model to ask what a neuron has really learned.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/kongaskristjan/nansense/main/assets/docs/ui.png" width="80%" alt="nansense UI"><br>
+  <img src="https://raw.githubusercontent.com/kongaskristjan/nansense/main/assets/docs/ui.png" width="80%" alt="nansense UI on CIFAR"><br>
+  <sub><em>The live debugger UI, training on CIFAR.</em></sub>
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/kongaskristjan/nansense/main/assets/docs/deep_dream_mnist.png" width="80%" alt="deep dream MNIST"><br>
-  <sub><em>The live debugger UI, and MNIST digits deep-dreamed straight out of the output neurons.</em></sub>
+  <sub><em>MNIST digits deep-dreamed straight out of the output neurons.</em></sub>
 </p>
 
 → <a href="https://github.com/kongaskristjan/nansense">github.com/kongaskristjan/nansense</a>
