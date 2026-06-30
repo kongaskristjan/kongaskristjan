@@ -16,7 +16,7 @@ I build tools for peering inside neural networks, tinker with reinforcement lear
     </td>
     <td align="center" valign="top">
       <a href="https://github.com/kongaskristjan/stable-entropy">
-        <img src="assets/stable-entropy-lander.gif" height="130" alt="stable-entropy"><br>
+        <img src="https://raw.githubusercontent.com/kongaskristjan/kongaskristjan/main/assets/stable-entropy-lander.gif" height="130" alt="stable-entropy"><br>
         <b>🚀 stable-entropy</b>
       </a><br>
       <sub>Thermodynamics-inspired RL</sub>
@@ -57,7 +57,7 @@ Pause your training loop, step batch-by-batch, and **time-travel between epochs*
 A reinforcement-learning algorithm (*Policy Annealing*) that nudges high-reward action sequences toward high total probability, much like particles settling into low-energy states. It maps surprisingly cleanly onto ideas such as MaxEnt RL and Path Consistency Learning.
 
 <p align="center">
-  <img src="assets/stable-entropy-cartpole.gif" height="200" alt="CartPole agent"><br>
+  <img src="https://raw.githubusercontent.com/kongaskristjan/kongaskristjan/main/assets/stable-entropy-cartpole.gif" height="200" alt="CartPole agent"><br>
   <sub><em>An agent learning to balance CartPole (see the repo for Lunar Lander and more).</em></sub>
 </p>
 
