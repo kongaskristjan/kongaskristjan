@@ -83,5 +83,5 @@ A multithreaded particle simulator that reproduces gas ⇄ liquid phase transiti
 ---
 
 <p align="center">
-  <sub>Reach me on <a href="https://www.linkedin.com/in/kristjan-kongas-8030b2254/">LinkedIn</a> — or, if you're really desperate, try <a href="https://stackoverflow.com/a/44229207">this</a> 🙂</sub>
+  <sub>Reach me on <a href="https://www.linkedin.com/in/kristjan-kongas-8030b2254/">LinkedIn</a> or try <a href="https://stackoverflow.com/a/44229207">this</a></sub>
 </p>
