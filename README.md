@@ -80,6 +80,26 @@ A multithreaded particle simulator that reproduces gas ⇄ liquid phase transiti
 
 </details>
 
+<details>
+<summary><b>🔥 fire-hpp</b> — a C++ command-line interface from a function signature</summary>
+
+<br>
+
+A single-header library that turns a function's parameters into a full CLI. Declare your arguments as `fire::arg` defaults, wrap the function in `FIRE(...)`, and the parsing, type conversion, `--help` text and error messages are handled for you.
+
+```c++
+int fired_main(int x = fire::arg("-x"), int y = fire::arg("-y")) {
+    std::cout << x + y << std::endl;
+    return 0;
+}
+
+FIRE(fired_main)
+```
+
+→ <a href="https://github.com/kongaskristjan/fire-hpp">github.com/kongaskristjan/fire-hpp</a>
+
+</details>
+
 ---
 
 <p align="center">
