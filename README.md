@@ -1,4 +1,4 @@
-<h3 align="center">Hi, I'm Kristjan 👋</h3>
+<h3 align="center">Hi, I'm Kristjan</h3>
 
 <p align="center">
 I build tools for peering inside neural networks, tinker with reinforcement learning, and simulate physical systems.
